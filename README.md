@@ -1,6 +1,4 @@
-# Assignment 5: Happy Holidays
-
-## Due: Tuesday Nov 26th, 11:59pm
+# Happy Holidays
 
 **Important**: because the Thanksgiving break follows this due date, we're "ignoring" Thursday when computing lateness. So, Wednesday 27th at 11:59pm is one day late, Fri 29th at 11:59pm is two days late, Sat 30th at 11:59pm is three days late, and Sun 31st at 11:59pm is four days late (and the **last day you can submit**).  I will repeat that:  you may not submit the assignment after Sunday night.  The TAs have exams so on, and need time to grade.   Emergencies that occur **after** the original due date (Tuesday 26th) will not be grounds for an extension past Sunday. 
 
